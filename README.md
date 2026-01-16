@@ -31,17 +31,6 @@ Current legal and administrative systems in South American agribusiness are anal
 
 ---
 
-### 📊 Github Stats
-
-<div align="left">
-  <a href="https://github.com/mjnderesende">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mjnderesende&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjnderesende&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
 <details>
   <summary><b>🇧🇷 Versão em Português (Clique para expandir)</b></summary>
   <br>
