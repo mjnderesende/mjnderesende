@@ -29,7 +29,6 @@ Omnes has res puro ac totali studio voluntario colo. In his omnibus dilettante s
 <br><br>
 ## De proposito 🏛️
 Proposita mea ad experimentum personale aedificata erant, sunt et erunt.
-<br><br>
 <br>Proposita res tractant de foro pecuniario, oeconomiis regionalibus et ludis electronicis; in his rebus instrumenta mathematicae, scientiae computatralis et rei nummariae experimentando adhibentur.<br>
 <br><br>
 ## De instrumentis 🛠️
