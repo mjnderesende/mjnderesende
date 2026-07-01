@@ -1,4 +1,20 @@
 # Salve et *Welcome*! 👋
+Welcome to my profile! If you want to check the content in other languages you can pick one of your liking at the end of the presentation.
+## De me 👤
+Sum Michael Iosephus, sed *Miguel José* in sermone lusitano, qui sermo patrius meus est.
+<br>Loquor in lingua lusitana, anglica, gallica et hispanica. Praeter linguas discere, amo mathematicam, scientiam computatralem et res nummarias. Omnes has res puro ac totali studio voluntario colo. In his omnibus dilettante sum, non profitens. Hoc in situ interretiali versor eaque cognosco ut me oblectem et fautorem meliorem me faciam.
+## De proposito 🏛️
+Proposita mea ad experimentum personale aedificata sunt et erunt.
+<br>Proposita res tractant de foro pecuniario, oeconomiis regionalibus et ludis electronicis; in his rebus instrumenta mathematicae, scientiae computatralis et rei nummariae experimentando adhibentur.<br>
+## De instrumentis 🛠️
+Instrumenta quibus utor:
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
 
 <details>
   <summary><b>🇬🇾 Version in English (Click to see more)</b></summary>
@@ -34,17 +50,3 @@
   <summary><b>🇲🇽 Versión en Español (Haga clic para ver más)</b></summary>
   Texto
 </details>
-
-## De me 👤
-Sum Michael Iosephus, sed *Miguel José* in sermone lusitano, qui sermo patrius meus est.
-<br>Loquor in lingua lusitana, anglica, gallica et hispanica. Praeter linguas discere, amo mathematicam, scientiam computatralem et res nummarias. Omnes has res puro ac totali studio voluntario colo. In his omnibus dilettante sum, non profitens. Hoc in situ interretiali versor eaque cognosco ut me oblectem et fautorem meliorem me faciam.
-## De proposito 🏛️
-Proposita mea ad experimentum personale aedificata sunt et erunt.
-<br>Proposita res tractant de foro pecuniario, oeconomiis regionalibus et ludis electronicis; in his rebus instrumenta mathematicae, scientiae computatralis et rei nummariae experimentando adhibentur.<br>
-## De instrumentis 🛠️
-Instrumenta quibus utor:
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
