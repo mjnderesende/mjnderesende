@@ -25,20 +25,25 @@ Instrumenta quibus utor:
   ## About projects 🏛️
   My projects are and will be built for personal experimentation.
   <br>The projects deal with the financial market, regional economies, and video games; in these areas, tools from mathematics, computer science, and finance are applied experimentally.<br>
-  ## About tools
+  ## About tools 🛠️
   The tools I use:
   <p align="left">
   <img src="https://img.shields.io/badge/Code-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-<br><br>
+
+---
+
 </details>
 
 
 <details>
   <summary><b>🇬🇫 Version en Français (Cliquez pour voir plus)</b></summary>
-  Texto
+  
+  ## À propos de moi 👤
+  Je m'apelle Michael-Joseph, mais on m'apelle *Miguel José* en portugais, ma langue maternelle.
+  <br> Je parle portugais, anglais, français et espagnol. En plus de l'apprentissage des langues, j'adore les mathématiques, l'informatique et la finance. Je cultive toutes ces passions par intérêt pur et totalement bénévole. Dans tous ces domaines, je suis un amateur, pas un professionnel. Je passe du temps sur ce site et j'apprends ces choses pour me divertir et pour devenir un meilleur passionné.<br>
 </details>
 
 <details>
