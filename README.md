@@ -21,7 +21,7 @@ Instrumenta quibus utor:
   
   ## About me 👤
   I'm Michael, but I'm *Miguel José* in portuguese, my mother language.
-  <br>I speak portuguese, english, french and spanish. Besides learning languages, I love math, computer science and finance. I cultivate all these pursuits out of pure and completely voluntary passion. In all of these, I am an amateur, not a professional. I spend time on this website and learn these things to entertain myself and to make myself a better enthusiast.<br>
+  <br>I speak latin, portuguese, english, french and spanish. Besides learning languages, I love math, computer science and finance. I cultivate all these pursuits out of pure and completely voluntary passion. In all of these, I am an amateur, not a professional. I spend time on this website and learn these things to entertain myself and to make myself a better enthusiast.<br>
   ## About projects 🏛️
   My projects are and will be built for personal experimentation.
   <br>The projects deal with the financial market, regional economies, and video games; in these areas, tools from mathematics, computer science, and finance are applied experimentally.<br>
@@ -43,12 +43,26 @@ Instrumenta quibus utor:
   
   ## À propos de moi 👤
   Je m'apelle Michael-Joseph, mais on m'apelle *Miguel José* en portugais, ma langue maternelle.
-  <br> Je parle portugais, anglais, français et espagnol. En plus de l'apprentissage des langues, j'adore les mathématiques, l'informatique et la finance. Je cultive toutes ces passions par intérêt pur et totalement bénévole. Dans tous ces domaines, je suis un amateur, pas un professionnel. Je passe du temps sur ce site et j'apprends ces choses pour me divertir et pour devenir un meilleur passionné.<br>
+  <br> Je parle latin, portugais, anglais, français et espagnol. En plus de l'apprentissage des langues, j'adore les mathématiques, l'informatique et la finance. Je cultive toutes ces passions par intérêt pur et totalement bénévole. Dans tous ces domaines, je suis un amateur, pas un professionnel. Je passe du temps sur ce site et j'apprends ces choses pour me divertir et pour devenir un meilleur passionné.<br>
 </details>
 
 <details>
   <summary><b>🇧🇷 Versão em Português (Click to see more)</b></summary>
-  Texto
+  
+  ## Sobre mim 👤
+  Eu sou Miguel José, meu nome de batismo na língua portuguesa.
+  <br> Eu falo latim, português, inglês, francês e espanhol. Além de aprender idiomas, eu amo matemática, ciência da computação e finanças. Eu cultivo todas essas paixões por puro e completo interesse pessoal. Em todos esses assuntos, sou um amador, não um profissional. Eu passo tempo nessa rede e aprendo essas coisas para me divertir e me tornar um melhor amador. <br>
+
+  ## Sobre projetos 🏛️
+  Meus projetos são e serão construídos para experimentação pessoal.
+  <br> Os projetos lidam com o mercado financeiro, economias regionais e jogos eletrônicos; nessas áreas, ferramentas da matemática, ciência da computação e finanças são aplicadas experimentalmente. <br>
+  ## Sobre ferramentas 🛠️
+  As ferramentas que utilizo:
+  <p align="left">
+  <img src="https://img.shields.io/badge/Code-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 </details>
 
 <details>
