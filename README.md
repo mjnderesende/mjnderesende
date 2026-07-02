@@ -20,7 +20,7 @@ Instrumenta quibus utor:
   <summary><b>🇬🇾 Version in English (Click to see more)</b></summary>
   
   ## About me 👤
-  I'm Michael Joseph, but I'm *Miguel José* in portuguese, my mother language.
+  I'm Michael, but I'm *Miguel José* in portuguese, my mother language.
   <br>I speak portuguese, english, french and spanish. Besides learning languages, I love math, computer science and finance. I cultivate all these pursuits out of pure and completely voluntary passion. In all of these, I am an amateur, not a professional. I spend time on this website and learn these things to entertain myself and to make myself a better enthusiast.<br>
   ## About projects 🏛️
   My projects are and will be built for personal experimentation.
