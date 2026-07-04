@@ -1,20 +1,41 @@
 # Salve et *Welcome*! 👋
 Welcome to my profile! If you want to check the content in other languages you can pick one of your liking at the end of the presentation.
-## De me 👤
-Sum Michael Iosephus, sed *Miguel José* in sermone lusitano, qui sermo patrius meus est.
-<br>Loquor in lingua lusitana, anglica, gallica et hispanica. Praeter linguas discere, amo mathematicam, scientiam computatralem et res nummarias. Omnes has res puro ac totali studio voluntario colo. In his omnibus dilettante sum, non profitens. Hoc in situ interretiali versor eaque cognosco ut me oblectem et fautorem meliorem me faciam.
-## De proposito 🏛️
-Proposita mea ad experimentum personale aedificata sunt et erunt.
-<br>Proposita res tractant de foro pecuniario, oeconomiis regionalibus et ludis electronicis; in his rebus instrumenta mathematicae, scientiae computatralis et rei nummariae experimentando adhibentur.<br>
-## De instrumentis 🛠️
-Instrumenta quibus utor:
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+  ## Who am I?
+  <br>
+  
+```Hobbyist in math, computer science and finance```
+<br>
+
+<p align="justify"> 
+  I'm <i>Miguel José</i> in my mother language, but you can call me Michael when speaking in the English language. I'm hobbyist whose interests focus on math, computer science, and finance. My projects consists of using tools related to those fields on themes that   interest me, such as the analysis of regional economies and stock markets, video games, and linguistics. Since I'm a hobbyist, these projects work like experiments for me to better understand the tools in action. Feel free to contact me in Latin, French, Spanish, English or Portuguese to talk about interesting projects and initiatives.
 </p>
 
----
+
+</td>
+<td width="50%" valign="top">
+
+  ## Quis nam sum?
+<br>
+  
+  ```Rerum mathematicarum, informaticarum, et aerariarum studiosus```
+  <br>
+<p align="justify">
+  <i>Miguel José</i> sermone patrio appellor, sed Michael Iosephus me vocare potes si Latine loquimur. Fautor sum voluntarius cuius studia maxime in re mathematica, informatica, et aeraria versantur. Incepta mea in instrumentis ad haec solertiae genera pertinentibus utendis consistunt, praesertim in rebus quae me delectant, sicut in perscrutatione oeconomiarum regionalium et mercatus stipis, in ludis electronicis, et in linguistica. Cum haec voluntarie tantum agam, haec incepta quasi experimenta mihi sunt ut melius intellegam quomodo instrumenta ipsa in praxi operentur. Libere me contingere potes sive Latine, Gallice, sive Hispanice, sive Anglice, sive Lusitane ut de inceptis et consiliis iucundis una loquamur.<br><br><br>
+</p>
+  
+  
+
+</td>
+</tr>
+</table>
+
+
+
 
 <details>
   <summary><b>🇬🇾 Version in English (Click to see more)</b></summary>
